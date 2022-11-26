@@ -1,8 +1,8 @@
 # Interfacing-Seven-segment-display-with-lpc2148
 
-## Name: EZHIL MATHI R 
+## Name: LOGESHWARI P
 
-## Roll no :212221230026
+## Roll no :212221230055
 
 ## Date of experiment:20/11/22
 
@@ -92,4 +92,4 @@ unsigned char dig[]={0x88,0xeb,0x4c,0x49,0x2b,0x19,0x18,0xcb,0x8,0x9,0xa,0x38,0x
 
 ### Result :
 
-LED seven segment display is interfaced and displayed alpha numeric characters
+LED seven segment display is interfaced and displayed alpha numeric characters.
